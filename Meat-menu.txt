@@ -1,0 +1,5 @@
+Ristorante : "Da Tano"
+
+Questo è un menu a base di carne 
+
+Bevande disponibili : Coca cola,vino,acqua,pepsi,birra,vodka
